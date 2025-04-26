@@ -4,6 +4,7 @@ BN5_Cheap_Trade_Chain mod
 This is a mod for Mega Man Battle Network Legacy Collection Vol. 2 for Battle Network 5.
 
 Battle Network 5 was infamous for making you give away PvP important chips with decent chip code to NPCs for no reason outside of completing chip library. The chips traded and order are as follows:
+
 Slow Gauge * -> North Wind * -> Grab Revenge F -> V Doll T-> Anti Damage * -> Dark Invisible I
 
 Only Slow Gauge * can be farmed and traded away. Dark Chips and Giga Class are always excluded from any chip trader. However, the four standard chips with that specific code, between those trade chain cannot be traded to another player or put in Chip Trader. This is because Legacy Collection has excluded them from the list, which doesn't happen in original GBA or DS. Because of that, players had to hard earn those chips from Oran Chip Trader Special and that can take thousands of attempts to even get a copy. Nonetheless, you can only have 2 copies of Anti Damage * as none of the chip/bug machine traders drop Anti Damage in this code. Completing the chain, means you lost your only second copy of Anti Damage * permanently because of this feature. To add salt to the wound, Dark Invisible can be obtained in * code from the Number Trader machine at Higsby when you start chapter 3. So doing all this trade chain in Chapter 5 onwards for Dark Invisible I is pointless, debilitating side quest.
