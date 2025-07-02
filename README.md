@@ -33,7 +33,8 @@ Features
 Potential Bug
 -------------
 
-* Completing the Trade Chain until Dark Invis I has a potential of deleting all copies of North Wind *, Grab Revenge F, V Doll T and Anti Damage * permanently from your pack if they're not equipped to any folder. This bug happens prior to this mod's existence and the cause has yet to be found. To be safe, do not obtain Dark Invis I at all. 
+* Completing the Trade Chain until Dark Invis I has a potential of deleting all copies of North Wind *, Grab Revenge F, V Doll T and Anti Damage * permanently from your pack if they're not equipped to any folder. This bug happens prior to this mod's existence and the cause has yet to be found. To be safe, do not obtain Dark Invis I at all.
+* The cause of the bug was discovered. It is trading Battle Chips/Search Real NetBattle in BN4 with the online connection. The moment you enter the chip selection screen as either host/guest, it permanently removes all those chips regardless whether you finish the trade chain or not. This also includes BN6 relevant Trade Chain chips.In other words, DO NOT PLAY BN5/BN6 in the same session you trade chips/Real Netbattle with a friend in BN4. Your save files will be safe if you do so.
 
 Installing
 ----------
